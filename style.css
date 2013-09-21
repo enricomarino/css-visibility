@@ -2,6 +2,7 @@
   visibility: visible !important;
 }
 
+.hidden, 
 .invisible {
   visibility: hidden !important;
 }
